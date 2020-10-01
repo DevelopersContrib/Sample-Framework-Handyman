@@ -1,7 +1,7 @@
-Sample-Framework-Handyman
+Sample Framework Project-Handyman Service on Demand
 =========================
 
-Handyman Sample Framewrk
+Handyman Service on Demand - Sample Framework Project
 
 
 How I added a framework on developers.contrib.com
@@ -17,6 +17,6 @@ Adding attributes
 
 1. . Go to your list of frameworks. 
 2. . Click Edit  icon of your framework. 
-4. Click ìattributesî tab
+4. Click ‚Äúattributes‚Äù tab
 5. Select field type 
-6. Click ìadd to formî
+6. Click ‚Äúadd to form‚Äù
