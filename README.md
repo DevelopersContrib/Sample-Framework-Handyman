@@ -1,7 +1,7 @@
-Sample Framework Project-Handyman Service on Demand
+Sample Framework Project-Handyman
 =========================
 
-Handyman Service on Demand - Sample Framework Project
+Handyman Service- Sample Framework Project
 
 
 How I added a framework on developers.contrib.com
